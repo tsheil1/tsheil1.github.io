@@ -538,7 +538,7 @@ __webpack_require__.r(__webpack_exports__);
 var TaskServiceService = /** @class */ (function () {
     function TaskServiceService(http) {
         this.http = http;
-        this.APIURL = 'http://cosc484a7back.herokuapp.com/api/tasks';
+        this.APIURL = 'https://cosc484a7back.herokuapp.com/api/tasks';
     }
     /*
    * @param  {} descriptionp
